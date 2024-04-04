@@ -1,0 +1,14 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+
+nav {
+    color: white;
+    background-color: rgb(32, 32, 32);
+}
+
+nav img {
+    object-fit: contain;
+}
